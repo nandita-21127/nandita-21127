@@ -3,14 +3,13 @@
 🎓 MCA Graduate (Class of 2025)
 💻 Aspiring Full-Stack Developer | Problem-Solving Enthusiast
 
-<hr style="border: 1px solid #ccc;" />
+<hr />
 
 
 🚀 About Me
 
 I’m a passionate and curious developer with a Master’s in Computer Applications (MCA). I enjoy solving challenging problems, building user-friendly applications, and continuously sharpening my technical skills.
 
-<hr style="border: 1px solid #ccc;" />
 
 🌟 My focus areas include:
 
@@ -18,7 +17,7 @@ I’m a passionate and curious developer with a Master’s in Computer Applicati
 💻 Full-Stack Web Development (MERN)
 🚀 Creating impactful projects that solve real-world problems
 
-<hr style="border: 1px solid #ccc;" />
+
 
 📚 Currently Learning
 
@@ -26,7 +25,7 @@ I’m a passionate and curious developer with a Master’s in Computer Applicati
 🔍 Enhancing my DSA problem-solving skills on platforms like LeetCode & Codeforces
 💡 Exploring full-stack development by integrating frontend & backend projects
 
-<hr style="border: 1px solid #ccc;" />
+<hr/>
 
 🛠️ Tech Stack
 
@@ -51,7 +50,7 @@ Tools & Platforms:
 📝 VS Code | IntelliJ IDEA
 🧪 Postman (API Testing)
 
-<hr style="border: 1px solid #ccc;" />
+<hr/>
 
 📂 Projects (Work in Progress 🚧)
 
@@ -64,7 +63,7 @@ Tools & Platforms:
 📫 Connect with Me
  https://linkedin.com/in/Nandita-kumari-1aa65b824b/
 
- <hr style="border: 1px solid #ccc;" />
+<hr />
  
 📊 GitHub Stats
 
@@ -75,9 +74,4 @@ Tools & Platforms:
 
 💡 “The best way to learn is by building and breaking things!”
 
-<hr style="border: 1px solid #ccc;" />
 
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
