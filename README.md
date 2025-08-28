@@ -1,6 +1,6 @@
 ## Hi there! I'm Nandita Kumari 👋
 
-🎓 MCA Graduate (Class of 2025)
+🎓 MCA Graduate (Class of 2025)  <br/>
 💻 Aspiring Full-Stack Developer | Problem-Solving Enthusiast
 
 <hr />
@@ -14,16 +14,16 @@ I’m a passionate and curious developer with a Master’s in Computer Applicati
 🌟 My focus areas include:
 
 📘 Data Structures & Algorithms (DSA) <br/>
-💻 Full-Stack Web Development (MERN)
-🚀 Creating impactful projects that solve real-world problems
+💻 Full-Stack Web Development (MERN)  <br/>
+🚀 Creating impactful projects that solve real-world problems  <br/>
 
 
 
 📚 Currently Learning
 
-🌱 Building strong foundations in Backend Development (MERN stack)
-🔍 Enhancing my DSA problem-solving skills on platforms like LeetCode & Codeforces
-💡 Exploring full-stack development by integrating frontend & backend projects
+🌱 Building strong foundations in Backend Development (MERN stack)  <br/>
+🔍 Enhancing my DSA problem-solving skills on platforms like LeetCode & Codeforces  <br/>
+💡 Exploring full-stack development by integrating frontend & backend projects <br/>
 
 <hr/>
 
@@ -54,9 +54,9 @@ Tools & Platforms:
 
 📂 Projects (Work in Progress 🚧)
 
-🌐 Portfolio Website – A personal website to showcase my skills & projects
-🛒 Green-Cart: Rapid Delivery Platform – A MERN stack full-stack application for browsing and ordering food with quick delivery
-☕ Java Programming Solutions Repo – My coding journey and solutions to Java problems
+🌐 Portfolio Website – A personal website to showcase my skills & projects  <br/>
+🛒 Green-Cart: Rapid Delivery Platform – A MERN stack full-stack application for browsing and ordering food with quick delivery  <br/>
+☕ Java Programming Solutions Repo – My coding journey and solutions to Java problems  <br/>
 
 <hr style="border: 1px solid #ccc;" />
 
@@ -67,11 +67,11 @@ Tools & Platforms:
  
 📊 GitHub Stats
 
-✨ Fun Facts
-🌍 I love exploring new technologies and keeping up with industry trends.
-🧩 Solving DSA problems feels like solving puzzles to me!
-🎨 I enjoy designing clean and simple UI for web apps.
+✨ Fun Facts  <br/>
+🌍 I love exploring new technologies and keeping up with industry trends.  <br/>
+🧩 Solving DSA problems feels like solving puzzles to me!  <br/>
+🎨 I enjoy designing clean and simple UI for web apps.  <br/>
 
-💡 “The best way to learn is by building and breaking things!”
+💡 “The best way to learn is by building and breaking things!”  <br/>
 
 
