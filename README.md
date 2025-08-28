@@ -60,7 +60,8 @@ Tools & Platforms:
 
 <hr style="border: 1px solid #ccc;" />
 
-📫 Connect with Me
+📫 Connect with Me :  <br/>
+
  https://linkedin.com/in/Nandita-kumari-1aa65b824b/
 
 <hr />
