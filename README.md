@@ -13,7 +13,7 @@ I’m a passionate and curious developer with a Master’s in Computer Applicati
 
 🌟 My focus areas include:
 
-📘 Data Structures & Algorithms (DSA)
+📘 Data Structures & Algorithms (DSA) <br/>
 💻 Full-Stack Web Development (MERN)
 🚀 Creating impactful projects that solve real-world problems
 
