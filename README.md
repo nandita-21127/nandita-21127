@@ -22,7 +22,7 @@ I’m a passionate and curious developer with a Master’s in Computer Applicati
 📚 Currently Learning
 
 🌱 Building strong foundations in Backend Development (MERN stack)  <br/>
-🔍 Enhancing my DSA problem-solving skills on platforms like LeetCode & Codeforces  <br/>
+🔍 Enhancing my DSA problem-solving skills on platform like LeetCode  <br/>
 💡 Exploring full-stack development by integrating frontend & backend projects <br/>
 
 <hr/>
